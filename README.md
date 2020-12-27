@@ -37,6 +37,7 @@
 | description | longtext    | YES  |     | NULL    |                |
 | price       | double      | NO   |     | NULL    |                |
 | enabled     | tinyint(1)  | NO   |     | NULL    |                |
+| slug        | varchar(70) | NO   | UNI | NULL    |                |
 | created_at  | datetime    | NO   |     | NULL    |                |
 | updated_at  | datetime    | YES  |     | NULL    |                |
 
@@ -49,8 +50,22 @@
 
 # Bonus
 
+- [ ] Intégrer le package de cookie et changer le style du bouton en vert et rendre traductible les champs
+
+- [ ] Créer une page cookie avec un contenu et modifier le template pour que le lien en savoir plus redirige vers la page de politique cookie
+
 - [ ] Indiquer la ligne de commande pour mettre en tâche cron la commande symfony
 
 # Note
 
 Il y a une incompatibilité avec les version Jquery bootstrap et l'éditeur Trumbowyg
+
+# Librairie
+
+Pour générer un slug
+
+https://github.com/cocur/slugify
+
+Pour les cookies
+
+https://github.com/ConnectHolland/cookie-consent-bundle
