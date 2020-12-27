@@ -1,7 +1,7 @@
 # Tâches
 - [ ] Initialisation d'un projet symfony
 
-- [ ] Création d'un base de donnée
+- [ ] Création d'une base de donnée
 
 - [ ] Créer une entity product
 
@@ -21,7 +21,7 @@
 
 - [ ] Créér une page d'ajout et/ou d'édition avec un enregistrement dans les logs
 
-- [ ] Créer une commande symfony de gérer l'activation des produits avec l'envoie d'un mail
+- [ ] Créer une commande symfony pour gérer l'activation des produits avec l'envoie d'un mail et le lien sur la page listing produit
 
 # Entités
 
