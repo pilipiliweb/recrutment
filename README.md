@@ -62,6 +62,10 @@ Il y a une incompatibilité avec les version Jquery bootstrap et l'éditeur Trum
 
 # Librairie
 
+Bootstrap
+
+https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
 Pour générer un slug
 
 https://github.com/cocur/slugify
