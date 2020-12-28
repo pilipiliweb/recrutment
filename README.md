@@ -58,7 +58,7 @@
 
 # Note
 
-Il y a une incompatibilité avec les version Jquery bootstrap et l'éditeur Trumbowyg
+Il y a une incompatibilité avec les versions Jquery bootstrap et l'éditeur Trumbowyg
 
 # Librairie
 
