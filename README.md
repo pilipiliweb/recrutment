@@ -15,7 +15,7 @@
 
 - [ ] Créer une page d'accueil affichant que les produits activés
 
-- [ ] Créer une page avec la liste des produits actif ou non
+- [ ] Créer une page avec la liste de tous les produits
 
 - [ ] Intégrer un éditeur avancé dans le champ description (https://alex-d.github.io/Trumbowyg/documentation/#installation)
 
