@@ -13,6 +13,8 @@
 
 - [ ] Rendre traductible les messages flash
 
+- [ ] Intégrer bootstrap 4
+
 - [ ] Créer une page d'accueil affichant que les produits activés
 
 - [ ] Créer une page avec la liste de tous les produits
