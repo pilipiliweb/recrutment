@@ -19,7 +19,7 @@
 
 - [ ] Intégrer un éditeur avancé dans le champ description (https://alex-d.github.io/Trumbowyg/documentation/#installation)
 
-- [ ] Créér une page d'ajout et/ou d'édition avec un enregistrement dans les logs
+- [ ] Créér une page d'ajout et/ou d'édition de produit avec un enregistrement dans les logs
 
 - [ ] Créer une commande symfony pour gérer l'activation des produits avec l'envoie d'un mail et le lien sur la page listing produit
 
